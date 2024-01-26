@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi, I'm Stan, sometimes referred to as **stanistan**.
 
-<!--
-**stanistan/stanistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I used to lead the Traffic Team at [CashApp][cash], and was an Engineer and the Product Engineering Architect at [Etsy][etsy]. 
+I'm also a 2x alumn of the [Recurse Center][rc]; and perpetual work in progress. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find some of my writing on my [website/blog][stanistan], and some of my projects here.
+
+[cash]: https://cash.app
+[etsy]: https://etsy.com
+[rc]: https://recurse.com
+[stanistan]: https://stanistan.com
